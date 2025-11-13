@@ -2,3 +2,4 @@ ucimlrepo
 numpy
 pandas
 seaborn
+scikit-learn
