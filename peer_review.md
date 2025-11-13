@@ -15,4 +15,4 @@ Sowers listed the increase in feature count due to OneHotEncoding (24 to 94 colu
 Sowers clearly explained their findings. She concluded that the data is highly seperable because both a decision tree and random forest model were able to achieve 100% accuracy. Because random forest handles variability well, Sowers indicated it would be her preferred choice of model. She also suggests applying feature importance analysis as a next step, which would verify the features she expected to be most predictive. She also suggests the importance of testing the models on additional data to ensure that overfitting isn't responsible for their 100% accuracy.
 
 ## Reflection Quality  
-Insights were well thought out. Sowers provided solid reasoning for her decisions, summarized findings, and clearly explained her interpretation of the results. She suggested next steps to further validate and improve her work.
+Insights were well thought out. Sowers provided solid reasoning for her decisions, summarized findings, and clearly explained her interpretation of the results. She suggested logical next steps to further validate and improve her work.
